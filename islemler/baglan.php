@@ -2,10 +2,10 @@
 
 
 
-$host="localhost"; huseyincetinkoz.com
-$veritabani_ismi=""; papillaenvanter
-$kullanici_adi=""; papilla
-$sifre=""; kara4114
+$host="localhost";huseyincetinkoz.com
+$veritabani_ismi="";huseyi46_papillaenvanter
+$kullanici_adi="";papilla
+$sifre="";kara4114
 
 try {
 	$db=new PDO("mysql:host=$host;dbname=$veritabani_ismi;charset=utf8mb4",$kullanici_adi,$sifre);
