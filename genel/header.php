@@ -158,44 +158,44 @@ $(window).load(function() {
                                 <li class="app-sidebar__heading">MENÜ</li>
 <li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-user "></i>Müşteri<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
-                                 <li><a href="musteri-listele"><i class="metismenu-icon"></i>Listele</a> </li>
+                                 <li><a href="musteri-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 
                             if (yetkikontrol()=="yetkili") {?>
-                                <a class="collapse-item" href="musteri-yeni"><i class="metismenu-icon"></i>Ekle</a>
+                                <a class="collapse-item" href="musteri-yeni.php"><i class="metismenu-icon"></i>Ekle</a>
                             <?php } ?>
                              </li>
                          </ul></li>
 <li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-basket "></i>Stoklar<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
-                                 <li><a href="stok-listele"><i class="metismenu-icon"></i>Listele</a> </li>
+                                 <li><a href="stok-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 
                             if (yetkikontrol()=="yetkili") {?>
-                                <a class="collapse-item" href="stok-yeni"><i class="metismenu-icon"></i>Ekle</a>
+                                <a class="collapse-item" href="stok-yeni.php"><i class="metismenu-icon"></i>Ekle</a>
                             <?php } ?>
                              </li>
                          </ul></li>
 <li class=""><a href="" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-cart "></i>Siparişler<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
-                                 <li><a href="siparis-listele"><i class="metismenu-icon"></i>Listele</a> </li>
+                                 <li><a href="siparis-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 
                             if (yetkikontrol()=="yetkili") {?>
-                                <a class="collapse-item" href="siparis-yeni"><i class="metismenu-icon"></i>Ekle</a>
+                                <a class="collapse-item" href="siparis-yeni.php"><i class="metismenu-icon"></i>Ekle</a>
                             <?php } ?>
                              </li>
                          </ul></li>
 
 
-
+<!-- 
 <li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-window-maximize "></i>Kasa<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
 <ul class="mm-collapse" style="height: 7.05px;">
-<li><a href="kasa"><i class="metismenu-icon"></i>Kasa  Listele</a> </li>
+<li><a href="kasa.php"><i class="metismenu-icon"></i>Kasa  Listele</a> </li>
 <li><?php if (yetkikontrol()=="yetkili") {?>
-<a class="collapse-item" href="kasa-detay?odeme-al"><i class="metismenu-icon"></i>Ödeme Girişi</a>
+<a class="collapse-item" href="kasa-detay?odeme-al.php"><i class="metismenu-icon"></i>Ödeme Girişi</a>
 <?php } ?></li>
 <li><?php if (yetkikontrol()=="yetkili") {?>
-<a class="collapse-item" href="kasa-detay?odeme-cikisi"><i class="metismenu-icon"></i>Ödeme Çıkışı</a>
+<a class="collapse-item" href="kasa-detay?odeme-cikisi.php"><i class="metismenu-icon"></i>Ödeme Çıkışı</a>
 <?php } ?></li>
-</ul></li>
+</ul></li> -->
 
 
 
