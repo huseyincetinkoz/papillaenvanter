@@ -2,7 +2,7 @@
 
 
 
-$host="huseyincetinkoz.com"; //Host adınızı girin varsayılan olarak Localhosttur eğer bilginiz yoksa bu şekilde bırakın
+$host="localhost"; //Host adınızı girin varsayılan olarak Localhosttur eğer bilginiz yoksa bu şekilde bırakın
 $veritabani_ismi="huseyi46_papilla"; //Veritabanı İsminiz
 $kullanici_adi="huseyi46_papilla"; //Veritabanı kullanıcı adınız
 $sifre="Kara4114!"; //Kullanıcı şifreniz
