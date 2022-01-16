@@ -1,9 +1,9 @@
 <?php 
 // Dados da conexão com o banco de dados
-define('SERVER', 'localhost');
-define('DBNAME', '');
-define('USER', '');
-define('PASSWORD', '');
+define('SERVER', 'huseyincetinkoz.com');
+define('DBNAME', 'huseyi46_papilla');
+define('USER', 'huseyi46_papilla');
+define('PASSWORD', 'Kara4114!');
 
 // Recebe os parâmetros enviados via GET
 $acao = (isset($_GET['acao'])) ? $_GET['acao'] : '';
