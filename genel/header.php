@@ -94,7 +94,7 @@ $(window).load(function() {
                             <h6>
                             <a href="javascript:void(0);" class="nav-link">
                                 <i class="nav-link-icon fa fa-database"> </i>
-                                Depo  Stok Giriş / Çıkış Scripti
+                                AL-CO 2. Hat Ürün Takip Yazılımı
                             </a>
                         </h6>
                         </li>
