@@ -66,7 +66,7 @@ $(window).load(function() {
     <div class="app-container app-theme-white body-tabs-shadow fixed-sidebar fixed-header">
         <div class="app-header header-shadow">
             <div class="app-header__logo">
-                <a href="http://gelisimhafriyat.com/stok/"><div class="logo-src"></div></a>
+                <a href="index.php"><div class="logo-src"></div></a>
                 <div class="header__pane ml-auto">
                     <div>
                         <button type="button" class="hamburger close-sidebar-btn hamburger--elastic" data-class="closed-sidebar">
@@ -174,7 +174,7 @@ $(window).load(function() {
                             <?php } ?>
                              </li>
                          </ul></li>
-<li class=""><a href="" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-cart "></i>Siparişler<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
+<li class=""><a href="" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-cart "></i>Biten Ürünler<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
                                  <li><a href="siparis-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 

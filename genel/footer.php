@@ -14,7 +14,7 @@
                                                 <div class="badge badge-success mr-1 ml-0">
                                                     <small>></small>
                                                 </div>
-                                               Kodlama : Ömer Güzelyurt
+                                               Coding By Hüseyin Çetinkoz
                                             </a>
                                         </li>
                                     </ul>
