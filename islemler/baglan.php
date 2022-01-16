@@ -2,10 +2,10 @@
 
 
 
-$host="localhost"; //Host adınızı girin varsayılan olarak Localhosttur eğer bilginiz yoksa bu şekilde bırakın
-$veritabani_ismi=""; //Veritabanı İsminiz
-$kullanici_adi=""; //Veritabanı kullanıcı adınız
-$sifre=""; //Kullanıcı şifreniz
+$host="localhost"; huseyincetinkoz.com
+$veritabani_ismi=""; papillaenvanter
+$kullanici_adi=""; papilla
+$sifre=""; kara4114
 
 try {
 	$db=new PDO("mysql:host=$host;dbname=$veritabani_ismi;charset=utf8mb4",$kullanici_adi,$sifre);
