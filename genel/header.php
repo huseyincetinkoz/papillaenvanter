@@ -156,7 +156,7 @@ $(window).load(function() {
                         <div class="app-sidebar__inner">
                             <ul class="vertical-nav-menu">
                                 <li class="app-sidebar__heading">MENÜ</li>
-<li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-user "></i>Müşteri<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
+<li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-user "></i>Ürün LİST<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
                                  <li><a href="musteri-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 
@@ -165,7 +165,7 @@ $(window).load(function() {
                             <?php } ?>
                              </li>
                          </ul></li>
-<li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-basket "></i>Stoklar<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
+<li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-basket "></i>Bekleyen Ürün<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
                                  <li><a href="stok-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 
@@ -174,7 +174,7 @@ $(window).load(function() {
                             <?php } ?>
                              </li>
                          </ul></li>
-<li class=""><a href="" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-cart "></i>Biten Ürünler<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
+<li class=""><a href="" aria-expanded="false"><i class="metismenu-icon fa fa-shopping-cart "></i>Biten Ürün<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
                                 <ul class="mm-collapse" style="height: 7.05px;">
                                  <li><a href="siparis-listele.php"><i class="metismenu-icon"></i>Listele</a> </li>
                             <li><?php 
