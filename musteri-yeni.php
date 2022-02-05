@@ -17,14 +17,14 @@ if (yetkikontrol()!="yetkili") {
 <div class="position-relative form-group col-md-3">
   <label for="exampleSelect" class="">Müşteri Türü </label>
   <select name="musteri_tipi" id="exampleSelect" class="form-control">
-      <option >Tür Seç</option>
-      <option value="Alıcı">Alıcı</option>
-      <option value="Satıcı">Satıcı</option>
-      <option value="Alıcı / Satıcı">Alıcı / Satıcı</option>
+      <option >Operatör</option>
+      <option value="Alıcı">İsmail</option>
+      <option value="Satıcı">Ömer</option>
+      <option value="Alıcı / Satıcı">Hüseyin</option>
                                                      
   </select></div>
             <div class="position-relative form-group col-md-3">
-              <label for="exampleEmail" class="">Müşteri Kodu </label>
+              <label for="exampleEmail" class="">ADET </label>
               <input name="barkod_no" maxlength="10ml" id="exampleEmail" type="text" class="form-control" required>
             </div>
             <div class="position-relative form-group col-md-6">
@@ -34,7 +34,7 @@ if (yetkikontrol()!="yetkili") {
         </div> 
       	<div class="row">
 	          <div class="position-relative form-group col-md-6">
-	            <label for="exampleEmail" class="">Adres</label>
+	            <label for="exampleEmail" class="">İş Emri NO</label>
 	            <input name="acik_adres" id="exampleEmail" type="text" class="form-control" required>
 	          </div>
 	          <div class="position-relative form-group col-md-6">
