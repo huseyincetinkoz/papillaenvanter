@@ -16,7 +16,7 @@ include 'genel/header.php' ;
                                                 <th >Ürün Sayısı</th>
                                                 <th>Ürün Adı</th>
                                                 <th >Cep Telefonu</th>
-                                                <th >Müşteri Tipi</th>
+                                                <th >Operatör</th>
                                                 <th >Detay</th>
                                             </tr>
                                             </thead>
