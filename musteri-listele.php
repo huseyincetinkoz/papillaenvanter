@@ -13,8 +13,8 @@ include 'genel/header.php' ;
                                             <thead>
                                             <tr>
                                                 <th >Kayıt Tarihi</th>
-                                                <th >Müşteri Kodu</th>
-                                                <th>Adı Soyadı</th>
+                                                <th >Ürün Sayısı</th>
+                                                <th>Ürün Adı</th>
                                                 <th >Cep Telefonu</th>
                                                 <th >Müşteri Tipi</th>
                                                 <th >Detay</th>

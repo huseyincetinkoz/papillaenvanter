@@ -46,7 +46,7 @@ if (yetkikontrol()!="yetkili") {
       	<div class="row">
 	          <div class="position-relative form-group col-md-6">
 	            <label for="exampleEmail" class="">Vergi No / Tc No</label>
-	            <input name="tc_no" id="exampleEmail" maxlength="11" type="number" class="form-control" required>
+	            <input name="tc_no" id="exampleEmail"  type="number" class="form-control" required>
 	          </div>
 	          <div class="position-relative form-group col-md-6">
 <div class="row">
