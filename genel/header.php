@@ -185,7 +185,7 @@ $(window).load(function() {
                          </ul></li>
 
 
-<!-- 
+
 <li class=""><a href="#" aria-expanded="false"><i class="metismenu-icon fa fa-window-maximize "></i>Kasa<i class="metismenu-state-icon pe-7s-angle-down caret-left"></i></a>
 <ul class="mm-collapse" style="height: 7.05px;">
 <li><a href="kasa.php"><i class="metismenu-icon"></i>Kasa  Listele</a> </li>
@@ -195,7 +195,7 @@ $(window).load(function() {
 <li><?php if (yetkikontrol()=="yetkili") {?>
 <a class="collapse-item" href="kasa-detay?odeme-cikisi.php"><i class="metismenu-icon"></i>Ödeme Çıkışı</a>
 <?php } ?></li>
-</ul></li> -->
+</ul></li>
 
 
 

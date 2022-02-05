@@ -13,17 +13,17 @@ include 'genel/header.php';
 
 <div class="col-md-12 col-xl-12" style="padding-bottom: 12px;">
 <a style="text-decoration:none;" href="musteri-yeni">  <div class="card mb-1 widget-content bg-grow-early"><div class="widget-content-wrapper text-white">
-<div class="widget-numbers text-white" style=" font-size: 18px; ">Müşteri Ekle </div>
+<div class="widget-numbers text-white" style=" font-size: 18px; ">ÜRÜN EKLE </div>
 </div></div> </a>
   </div>
 <div class="col-md-12 col-xl-12" style="padding-bottom: 12px;">
 <a style="text-decoration:none;" href="stok-yeni">  <div class="card mb-1 widget-content bg-warning "><div class="widget-content-wrapper text-white">
-<div class="widget-numbers text-white" style=" font-size: 18px; ">Ürün Ekle</div>
+<div class="widget-numbers text-white" style=" font-size: 18px; ">BEKLEYEN ÜRÜN</div>
 </div></div> </a>
 </div>
 <div class="col-md-12 col-xl-12" style="padding-bottom: 12px;">
 <a style="text-decoration:none;" href="siparis-yeni">  <div class="card mb-1 widget-content bg-focus"><div class="widget-content-wrapper text-white">
-<div class="widget-numbers text-white" style=" font-size: 18px; ">Sipariş Ekle</div>
+<div class="widget-numbers text-white" style=" font-size: 18px; ">BİTEN ÜRÜN</div>
 </div></div> </a>
 </div>
 <div class="col-md-12 col-xl-12" style="padding-bottom: 12px;">
