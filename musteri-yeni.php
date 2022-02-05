@@ -28,7 +28,7 @@ if (yetkikontrol()!="yetkili") {
               <input name="barkod_no" maxlength="10ml" id="exampleEmail" type="text" class="form-control" required>
             </div>
             <div class="position-relative form-group col-md-6">
-	            <label for="exampleEmail" class="">Adı Soyadı</label>
+	            <label for="exampleEmail" class="">ÜRÜN ADI</label>
 	            <input name="adi_soyadi" id="exampleEmail" type="text" class="form-control" required>
 	          </div>
         </div> 
@@ -39,7 +39,7 @@ if (yetkikontrol()!="yetkili") {
 	          </div>
 	          <div class="position-relative form-group col-md-6">
 	            <label for="exampleEmail" class="">E -Posta </label>
-	            <input name="e_posta" type="email" id="exampleEmail"  class="form-control" required>
+	            <input name="e_posta" type="text" id="exampleEmail"  class="form-control" required>
 	          </div>
         </div> 
 
